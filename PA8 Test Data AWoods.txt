@@ -1,0 +1,86 @@
+
+19 O'Malley, Alexis R.
+11 black, jack
+18 Adams-Smith, J. K.
+23 WILLIAMS, MARY MARGARET
+19 Stout, J. Fred, Jr.
+13 Lincoln Larry
+19 White, John Anthony
+12 mAlIk, d. s.
+13 WHITE, JACK
+19 Black, Thomas Jacob
+12 Morgan, J. P
+22 O'Hara, Albert Douglas
+13 james, jessie
+19 Jones, Joe Bob, III
+
+Processing all 14 records in file.
+
+19 O'Malley, Alexis R.
+11 black, jack
+18 Adams-Smith, J. K.
+
+Exceeded array limitations for 3 records.
+More records remain in file.
+
+
+Processing all 0 records in file.
+
+
+Processing all 14 records in file.
+
+O'Malley, Alexis R.         ao'malley@company.com
+black, jack                 jblack@company.com
+Adams-Smith, J. K.          jadams-smith@company.com
+WILLIAMS, MARY MARGARET     mwilliams@company.com
+Stout, J. Fred, Jr.         jstout@company.com
+Lincoln Larry               ilincoln larry@company.com
+White, John Anthony         jwhite@company.com
+mAlIk, d. s.                dmalik@company.com
+WHITE, JACK                 jwhite@company.com
+Black, Thomas Jacob         tblack@company.com
+Morgan, J. P                jmorgan@company.com
+O'Hara, Albert Douglas      ao'hara@company.com
+james, jessie               jjames@company.com
+Jones, Joe Bob, III         jjones@company.com
+
+Open Employee Emails.txt to see generated emails.
+
+Processing all 14 records in file.
+
+Adams-Smith, J. K.          ao'malley@company.com
+Black, Thomas Jacob         tblack@company.com
+Jones, Joe Bob, III         jjones@company.com
+Lincoln Larry               ilincoln larry@company.com
+Morgan, J. P                jmorgan@company.com
+O'Hara, Albert Douglas      ao'hara@company.com
+O'Malley, Alexis R.         ao'malley@company.com
+Stout, J. Fred, Jr.         jstout@company.com
+WHITE, JACK                 jwhite@company.com
+WILLIAMS, MARY MARGARET     mwilliams@company.com
+White, John Anthony         jwhite@company.com
+black, jack                 jblack@company.com
+james, jessie               jjames@company.com
+mAlIk, d. s.                dmalik@company.com
+
+Open Employee Emails.txt to see generated emails.
+
+
+Processing all 14 records in file.
+
+mAlIk, d. s.                ao'malley@company.com
+james, jessie               jjames@company.com
+black, jack                 jblack@company.com
+White, John Anthony         jwhite@company.com
+WILLIAMS, MARY MARGARET     mwilliams@company.com
+WHITE, JACK                 jwhite@company.com
+Stout, J. Fred, Jr.         jstout@company.com
+O'Malley, Alexis R.         ao'malley@company.com
+O'Hara, Albert Douglas      ao'hara@company.com
+Morgan, J. P                jmorgan@company.com
+Lincoln Larry               ilincoln larry@company.com
+Jones, Joe Bob, III         jjones@company.com
+Black, Thomas Jacob         tblack@company.com
+Adams-Smith, J. K.          jadams-smith@company.com
+
+Open Employee Emails.txt to see generated emails.
